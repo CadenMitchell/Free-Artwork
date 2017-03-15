@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.033325mm"
+   height="55.033325mm"
+   viewBox="0 0 55.033326 55.033324"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="KDE_Launcher_Icon.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7962">
+      <rect
+         ry="44"
+         y="1.7161688"
+         x="1.7164621"
+         height="203.99997"
+         width="203.99997"
+         id="rect7964"
+         style="opacity:1;fill:#006680;fill-opacity:1;stroke:#00aad4;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="84.876094"
+     inkscape:cy="147.15616"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-nodes="true"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(111.72921,-121.77078)">
+    <path
+       style="opacity:1;fill:#006680;fill-opacity:1;stroke:#00aad4;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -99.558376,122.29995 h 30.691658 c 6.449483,0 11.641666,5.19218 11.641666,11.64167 v 30.69165 c 0,6.44949 -5.192183,11.64167 -11.641666,11.64167 h -30.691658 c -6.449484,0 -11.641664,-5.19218 -11.641664,-11.64167 v -30.69165 c 0,-6.44949 5.19218,-11.64167 11.641664,-11.64167 z"
+       id="rect7877" />
+    <path
+       style="opacity:1;fill:#00ccff;fill-opacity:1;stroke:#00aad4;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2,2 V 205 L 54.070312,103.5 Z M 95.408203,2 36.15625,39.097656 63.935547,94.554688 95.408203,74.849609 V 45.716797 Z M 63.935547,113.16211 36.533203,168.61914 90.730469,205.7168 H 205.7168 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,-111.65419,121.84588)"
+       id="path7865"
+       clip-path="url(#clipPath7962)"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -99.558376,122.29995 h 30.691658 c 6.449483,0 11.641666,5.19218 11.641666,11.64167 v 30.69165 c 0,6.44949 -5.192183,11.64167 -11.641666,11.64167 h -30.691658 c -6.449484,0 -11.641664,-5.19218 -11.641664,-11.64167 v -30.69165 c 0,-6.44949 5.19218,-11.64167 11.641664,-11.64167 z"
+       id="rect7966" />
+  </g>
+</svg>
