@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="80.394235"
-     inkscape:cy="92.922545"
+     inkscape:cx="104.93508"
+     inkscape:cy="98.891322"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,9 +55,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="697"
+     inkscape:window-height="693"
      inkscape:window-x="0"
-     inkscape:window-y="285"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
@@ -70,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,10 +94,11 @@
        id="path7277"
        transform="matrix(0.26458333,0,0,0.26458333,-111.65419,121.84588)" />
     <path
-       style="opacity:1;fill:#00ccff;fill-opacity:1;stroke:#00aad4;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 103.21875 113.44531 L 75.816406 168.90234 L 130.01367 206 L 162 206 C 180.54535 206 196.32918 194.63523 202.82422 178.4668 L 103.21875 113.44531 z "
-       transform="matrix(0.26458333,0,0,0.26458333,-111.72921,121.77078)"
-       id="path7865" />
+       style="opacity:1;fill:#00ccff;fill-opacity:1;stroke:#00aad4;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -94.73791,151.78651 -7.2502,14.67301 14.339689,9.81542 18.785237,0 c 4.041505,0 6.658055,-1.84011 8.219662,-3.38611 z"
+       id="path7865"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -99.558376,122.29995 h 30.691658 c 6.449483,0 11.641666,5.19218 11.641666,11.64167 v 30.69165 c 0,6.44949 -5.192183,11.64167 -11.641666,11.64167 h -30.691658 c -6.449484,0 -11.641664,-5.19218 -11.641664,-11.64167 v -30.69165 c 0,-6.44949 5.19218,-11.64167 11.641664,-11.64167 z"
