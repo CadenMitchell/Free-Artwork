@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="KDE_Launcher_Icon.svg">
+   sodipodi:docname="KDE_Launcher_Icon_Blue.svg"
+   inkscape:export-filename="/home/caden/Documents/Inkscape Projects/Blue Theme KDE/KDE_Launcher_Icon.png"
+   inkscape:export-xdpi="461.53857"
+   inkscape:export-ydpi="461.53857">
   <defs
      id="defs2">
     <clipPath
@@ -38,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="84.876094"
-     inkscape:cy="147.15616"
+     inkscape:zoom="2"
+     inkscape:cx="80.394235"
+     inkscape:cy="92.922545"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +57,7 @@
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="285"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
@@ -82,14 +85,30 @@
        id="rect7877" />
     <path
        style="opacity:1;fill:#00ccff;fill-opacity:1;stroke:#00aad4;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 2,2 V 205 L 54.070312,103.5 Z M 95.408203,2 36.15625,39.097656 63.935547,94.554688 95.408203,74.849609 V 45.716797 Z M 63.935547,113.16211 36.533203,168.61914 90.730469,205.7168 H 205.7168 Z"
-       transform="matrix(0.26458333,0,0,0.26458333,-111.65419,121.84588)"
-       id="path7865"
-       clip-path="url(#clipPath7962)"
-       inkscape:connector-curvature="0" />
+       d="M 11.003906 19.28125 C 6.2968906 25.447306 3.1888899 32.899638 2.2832031 41.041016 L 2.2832031 166.95898 C 3.1804509 175.0245 6.2355267 182.41644 10.869141 188.54883 L 54.353516 103.7832 L 11.003906 19.28125 z "
+       id="path7279"
+       transform="matrix(0.26458333,0,0,0.26458333,-111.72921,121.77078)" />
+    <path
+       style="opacity:1;fill:#00ccff;fill-opacity:1;stroke:#00aad4;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 95.408203,2 36.15625,39.097656 63.935547,94.554688 95.408203,74.849609 V 45.716797 Z"
+       id="path7277"
+       transform="matrix(0.26458333,0,0,0.26458333,-111.65419,121.84588)" />
+    <path
+       style="opacity:1;fill:#00ccff;fill-opacity:1;stroke:#00aad4;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 103.21875 113.44531 L 75.816406 168.90234 L 130.01367 206 L 162 206 C 180.54535 206 196.32918 194.63523 202.82422 178.4668 L 103.21875 113.44531 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-111.72921,121.77078)"
+       id="path7865" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -99.558376,122.29995 h 30.691658 c 6.449483,0 11.641666,5.19218 11.641666,11.64167 v 30.69165 c 0,6.44949 -5.192183,11.64167 -11.641666,11.64167 h -30.691658 c -6.449484,0 -11.641664,-5.19218 -11.641664,-11.64167 v -30.69165 c 0,-6.44949 5.19218,-11.64167 11.641664,-11.64167 z"
        id="rect7966" />
+    <path
+       id="path7281"
+       d="m -99.558376,122.29995 h 30.691658 c 6.449483,0 11.641666,5.19218 11.641666,11.64167 v 30.69165 c 0,6.44949 -5.192183,11.64167 -11.641666,11.64167 h -30.691658 c -6.449484,0 -11.641664,-5.19218 -11.641664,-11.64167 v -30.69165 c 0,-6.44949 5.19218,-11.64167 11.641664,-11.64167 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -99.558376,122.29995 h 30.691658 c 6.449483,0 11.641666,5.19218 11.641666,11.64167 v 30.69165 c 0,6.44949 -5.192183,11.64167 -11.641666,11.64167 h -30.691658 c -6.449484,0 -11.641664,-5.19218 -11.641664,-11.64167 v -30.69165 c 0,-6.44949 5.19218,-11.64167 11.641664,-11.64167 z"
+       id="path7283" />
   </g>
 </svg>
